@@ -1,5 +1,5 @@
 
-![Capa - Relatório de Segurança](capa.png)
+![Capa - Relatório de Segurança](images/capa.png)
 
 
 ## Relatório de Segurança e Plano de Ação
@@ -18,7 +18,7 @@ A **LojaZeta** é um e-commerce em crescimento hospedado em nuvem (**Nginx + Nod
 - **Ausência de SIEM:** logs dispersos em instâncias diferentes.  
 - **Superfície web vulnerável:** app exposto sem WAF.  
 - **Identidade frágil:** sem MFA em acessos administrativos.  
-- **Backups sem teste de restauração.
+- **Backups** sem teste de restauração.
 
 ### Visão da Solução
 - Defesa em profundidade: WAF, IDS/IPS, hardening de app e DB, MFA.  
